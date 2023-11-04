@@ -6,3 +6,4 @@ Commands used in it :
 2. tsc --init
 3. npm i inquirer
 4. npm i @types/inquirer -D
+5. npm i chalk@4.1.2
