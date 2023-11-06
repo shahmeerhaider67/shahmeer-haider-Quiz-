@@ -1,4 +1,4 @@
-Hello this is me Shahmeer Haider and this is my Countdown Timer Project :)
+Hello this is me Shahmeer Haider and this is my Quiz Project :)
 
 Commands used in it :
 
